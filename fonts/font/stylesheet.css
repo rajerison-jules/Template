@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'CCBellyLaughW00';
+    src: url('CCBellyLaughW00-Regular.eot');
+    src: local('CCBellyLaugh W00 Regular'), local('CCBellyLaughW00-Regular'),
+        url('CCBellyLaughW00-Regular.eot?#iefix') format('embedded-opentype'),
+        url('CCBellyLaughW00-Regular.woff2') format('woff2'),
+        url('CCBellyLaughW00-Regular.woff') format('woff'),
+        url('CCBellyLaughW00-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CCBellyLaughOpenW00-Rg';
+    src: url('CCBellyLaughOpenW00-Rg.eot');
+    src: local('CCBellyLaughOpen W00 Regular'), local('CCBellyLaughOpenW00-Rg'),
+        url('CCBellyLaughOpenW00-Rg.eot?#iefix') format('embedded-opentype'),
+        url('CCBellyLaughOpenW00-Rg.woff2') format('woff2'),
+        url('CCBellyLaughOpenW00-Rg.woff') format('woff'),
+        url('CCBellyLaughOpenW00-Rg.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
